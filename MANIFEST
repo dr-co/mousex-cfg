@@ -1,0 +1,10 @@
+Changes
+lib/MouseX/DR/Cfg.pm
+Makefile.PL
+MANIFEST
+README
+t/010-meta.t
+t/020-base.t
+t/030-use.t
+t/lib/Tst1.pm
+t/lib/Tst2.pm

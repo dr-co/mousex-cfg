@@ -1,0 +1,5 @@
+libmousex-dr-cfg-perl (0.01) nowtaxi; urgency=medium
+
+  * Init debian infrastructure.
+
+ -- Dmitry E. Oboukhov <unera@debian.org>  Fri, 12 Oct 2018 14:23:07 +0300

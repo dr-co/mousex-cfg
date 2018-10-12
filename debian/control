@@ -1,0 +1,20 @@
+Source: libmousex-dr-cfg-perl
+Section: perl
+Homepage: https://github.com/dr-co/mousex-cfg
+Maintainer: Dmitry E. Oboukhov <unera@debian.org>
+Build-Depends: debhelper (>= 7), cdbs,
+ libmouse-perl
+Standards-Version: 3.9.6
+Priority: extra
+VCS-Browser: https://github.com/dr-co/mousex-cfg
+
+Package: libmousex-dr-cfg-perl
+Depends:
+ ${perl:Depends},
+ ${misc:Depends},
+ ${shlibs:Depends},
+ libmouse-perl
+Architecture: any
+Description: Config tags for object attributes
+
+
